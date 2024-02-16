@@ -27,6 +27,6 @@ Este jogo foi inspirado no livro "A Ilha do Tesouro" de Robert Louis Stevenson.
 
 ## Contato
 
-Se você tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato através do e-mail [seu_email@example.com].
+Se você tiver alguma dúvida, sugestão ou feedback, não hesite em entrar em contato através do e-mail [duduluis366@gmail.com].
 
 Divirta-se explorando a Tresure Island e boa sorte na busca pelo tesouro!
